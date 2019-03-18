@@ -1,4 +1,4 @@
-EXE = nameOfProgram
+EXE = program
 CFLAGS = -Wall -std=c99
 OBJS = $(EXE).o
 
